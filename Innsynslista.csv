@@ -1,0 +1,359 @@
+Nr;navn;Adm. senter;Fylke;Målform;Domene;epost;Kommune_navn;Kommune_adr_2;Kommune_adr_3
+0301;Oslo;Oslo;Oslo;nøytral;www.oslo.kommune.no;postmottak@oslo.kommune.no;Oslo Kommune;Postboks 2500 Vika;0037 Oslo
+1101;Eigersund;Egersund;Rogaland;bokmål;www.eigersund.kommune.no;veiledningstorg@eigersund.kommune.no;Eigersund Kommune;Postboks 580;4379 Egersund
+1103;Stavanger;Stavanger;Rogaland;nøytral;www.stavanger.kommune.no;postmottak@stavanger.kommune.no;Stavanger Kommune;Postboks 8001;4068 Stavanger
+1106;Haugesund;Haugesund;Rogaland;bokmål;www.haugesund.kommune.no;postmottak@haugesund.kommune.no;Haugesund Kommune;Postboks 2160 ;5504 Haugesund
+1108;Sandnes;Sandnes;Rogaland;nøytral;www.sandnes.kommune.no;postmottak@sandnes.kommune.no;Sandnes Kommune;Postboks 583;4302 Sandnes
+1111;Sokndal;Hauge;Rogaland;nøytral;www.sokndal.kommune.no;postmottak@sokndal.kommune.no;Sokndal Kommune;Gamleveien 20;4380 Hauge i Dalane
+1112;Lund;Moi;Rogaland;nøytral;www.lund.kommune.no;postmottak@lund.kommune.no;Lund Kommune;Moiveien 9;4460 Moi
+1114;Bjerkreim;Vikeså;Rogaland;nøytral;www.bjerkreim.kommune.no;postmottak@bjerkreim.kommune.no;Bjerkreim Kommune;Postboks 17;4384 Vikeså
+1119;Hå;Varhaug;Rogaland;nøytral;www.ha.no;post@ha.kommune.no;Hå Kommune;Rådhusgata 8;4360 Varhaug
+1120;Klepp;Kleppe;Rogaland;nynorsk;www.klepp.kommune.no;postmottak@klepp.kommune.no;Klepp Kommune;Bedriftsvegen 4;4353 Klepp stasjon
+1121;Time;Bryne;Rogaland;nynorsk;www.time.kommune.no;post@time.kommune.no;Time Kommune;Postboks 38;4349 Bryne
+1122;Gjesdal;Ålgård;Rogaland;nøytral;www.gjesdal.kommune.no;post@gjesdal.kommune.no;Gjesdal Kommune;Rettedalen 1;4330 Ålgård
+1124;Sola;Solakrossen;Rogaland;nøytral;www.sola.kommune.no;epost@sola.kommune.no;Sola Kommune;Postboks 99;4097 Sola
+1127;Randaberg;Randaberg;Rogaland;nøytral;www.randaberg.kommune.no;post@randaberg.kommune.no;Randaberg Kommune;Postboks 40;4096 Randaberg
+1130;Strand;Jørpeland;Rogaland;nøytral;www.strand.kommune.no;postmottak@strand.kommune.no;Strand Kommune;Postboks 115;4126 Jørpeland
+1133;Hjelmeland;Hjelmelandsvågen;Rogaland;nynorsk;www.hjelmeland.kommune.no;postmottak@hjelmeland.kommune.no;Hjelmeland Kommune;Vågavegen 116;4130 Hjelmeland
+1134;Suldal;Sand;Rogaland;nynorsk;www.suldal.kommune.no;postmottak@suldal.kommune.no;Suldal Kommune;Eidsvegen 7;4230 Sand
+1135;Sauda;Sauda;Rogaland;nynorsk;www.sauda.kommune.no;post@sauda.kommune.no;Sauda Kommune;Postboks 44;4201 Sauda
+1144;Kvitsøy;Ydstebøhavn;Rogaland;nøytral;kvitsoy.kommune.no;post@kvitsoy.kommune.no;Kvitsøy Kommune;Kommunehusveien 6;4180 Kvitsøy
+1145;Bokn;Føresvik;Rogaland;nynorsk;www.bokn.kommune.no;post@bokn.kommune.no;Bokn Kommune;Boknatunvegen 37;5561 Bokn
+1146;Tysvær;Aksdal;Rogaland;nynorsk;www.tysver.kommune.no;post@tysver.kommune.no;Tysvær Kommune;Postboks 94;5575 Aksdal
+1149;Karmøy;Kopervik;Rogaland;nøytral;www.karmoy.kommune.no;post@karmoy.kommune.no;Karmøy Kommune; Postboks 167;4291 Kopervik
+1151;Utsira;Utsira;Rogaland;nøytral;utsira.kommune.no;post@utsira.kommune.no;Utsira Kommune;Postboks 63;5547 Utsira
+1160;Vindafjord;Ølensjøen;Rogaland;nynorsk;www.vindafjord.kommune.no;postmottak@vindafjord.kommune.no;Vindafjord Kommune;Rådhusplassen 1;5580 Ølen
+1505;Kristiansund;Kristiansund;Møre og Romsdal;nøytral;www.kristiansund.kommune.no;postmottak@kristiansund.kommune.no;Kristiansund Kommune;Postboks 178;6501 Kristiansund
+1506;Molde;Molde;Møre og Romsdal;nøytral;www.molde.kommune.no;postmottak@molde.kommune.no;Molde Kommune;Rådhusplassen 1;6413 Molde
+1508;Ålesund;Ålesund;Møre og Romsdal;nynorsk;alesund.kommune.no;postmottak@alesund.kommune.no;Ålesund Kommune;Postboks 1521;6025 Ålesund
+1511;Vanylven;Fiskåbygd;Møre og Romsdal;nynorsk;www.vanylven.kommune.no;postmottak@vanylven.kommune.no;Vanylven Kommune;Rådhusvegen 3;6143 Fiskå
+1514;Sande;Larsnes;Møre og Romsdal;nynorsk;www.sande.kommune.no;postmottak@sande.kommune.no;Sande Kommune;Rønnebergplassen 17; 6084 Larsnes
+1515;Herøy;Fosnavåg;Møre og Romsdal;nynorsk;www.heroy.kommune.no;postmottak@heroy.kommune.no;Herøy Kommune;Postboks 274;6099 Fosnavåg
+1516;Ulstein;Ulsteinvik;Møre og Romsdal;nynorsk;www.ulstein.kommune.no;postmottak@ulstein.kommune.no;Ulstein Kommune;Postboks 143;6067 Ulsteinvik
+1517;Hareid;Hareid;Møre og Romsdal;nynorsk;www.hareid.kommune.no;postmottak@hareid.kommune.no;Hareid Kommune;Rådhusplassen 5;6060 Hareid
+1520;Ørsta;Ørsta;Møre og Romsdal;nynorsk;www.orsta.kommune.no;postmottak@orsta.kommune.no;Ørsta Kommune;Dalevegen 6;6153 Ørsta
+1525;Stranda;Stranda;Møre og Romsdal;nynorsk;www.stranda.kommune.no;post@stranda.kommune.no;Stranda Kommune;Øyna 13;6200 Stranda
+1528;Sykkylven;Aure;Møre og Romsdal;nynorsk;www.sykkylven.kommune.no;postmottak@sykkylven.kommune.no;Sykkylven Kommune;Kyrkjevegen 62;6230 Sykkylven
+1531;Sula;Langevåg;Møre og Romsdal;nynorsk;www.sula.kommune.no;post@sula.kommune.no;Sula Kommune;Postboks 280;6039 Langevåg
+1532;Giske;Valderøya;Møre og Romsdal;nynorsk;www.giske.kommune.no;post@giske.kommune.no;Giske Kommune;Valderhaug 4;6050 Valderøya
+1535;Vestnes;Vestnes;Møre og Romsdal;nynorsk;www.vestnes.kommune.no;postmottak@vestnes.kommune.no;Vestnes Kommune;Brugata 10;6390  Vestnes
+1539;Rauma;Åndalsnes;Møre og Romsdal;nøytral;www.rauma.kommune.no;post@rauma.kommune.no;Rauma Kommune;Vollan 8A;6300 Åndalsnes
+1547;Aukra;Falkhytta;Møre og Romsdal;nynorsk;www.aukra.kommune.no;post@aukra.kommune.no;Aukra Kommune;Nyjordvegen 12;6480 Aukra
+1554;Averøy;Bruhagen;Møre og Romsdal;nøytral;www.averoy.kommune.no;post@averoy.kommune.no;Averøy Kommune;Postboks 152;6538 Averøy
+1557;Gjemnes;Batnfjordsøra;Møre og Romsdal;nøytral;www.gjemnes.kommune.no;post@gjemnes.kommune.no;Gjemnes Kommune;Nordmørsvegen 24;6631 Batnfjordsøra
+1560;Tingvoll;Tingvoll;Møre og Romsdal;nøytral;www.tingvoll.kommune.no;postmottak@tingvoll.kommune.no;Tingvoll Kommune;Midtvågvegen 2;6630 Tingvoll
+1563;Sunndal;Sunndalsøra;Møre og Romsdal;nøytral;www.sunndal.kommune.no;post@sunndal.kommune.no;Sunndal Kommune;postboks 94;6601 Sunndalsøra
+1566;Surnadal;Skei;Møre og Romsdal;nynorsk;www.surnadal.kommune.no;post@surnadal.kommune.no;Surnadal Kommune;Bårdshaugvegen 1;6650 Surnadal
+1573;Smøla;Hopen;Møre og Romsdal;nøytral;www.smola.kommune.no;postmottak@smola.kommune.no;Smøla Kommune;Postboks  34;6570 Smøla
+1576;Aure;Aure;Møre og Romsdal;nøytral;www.aure.kommune.no;postmottak@aure.kommune.no;Aure Kommune;Postboks 33;6689 Aure
+1577;Volda;Volda;Møre og Romsdal;nynorsk;www.volda.kommune.no;postmottak@volda.kommune.no;Volda Kommune;Stormyra 2;6100 Volda
+1578;Fjord;Stordal;Møre og Romsdal;nynorsk;www.fjord.kommune.no;post@fjord.kommune.no;Fjord Kommune;postboks 144;6211 Valldal
+1579;Hustadvika;Elnesvågen;Møre og Romsdal;nøytral;hustadvika.kommune.no;postmottak@hustadvika.kommune.no;Hustadvika Kommune;Tingplassen 1;6440 Elnesvågen
+1580;Haram;Brattvåg;Møre og Romsdal;nynorsk;www.haram.kommune.no;postmottak@haram.kommune.no;Haram Kommune;Postboks 33;6282 Brattvåg
+1804;Bodø;Bodø;Nordland;nøytral;bodo.kommune.no;postmottak@bodo.kommune.no;Bodø Kommune;postboks 319;8001 Bodø
+1806;Narvik;Narvik;Nordland;nøytral;www.narvik.kommune.no;postmottak@narvik.kommune.no;Narvik Kommune;Postboks 64;8501 Narvik
+1811;Bindal;Terråk;Nordland;bokmål;www.bindal.kommune.no;postmottak@bindal.kommune.no;Bindal Kommune;Oldervikveien 5;7980 Terråk
+1812;Sømna;Vik;Nordland;bokmål;www.somna.kommune.no;post@somna.kommune.no;Sømna Kommune;Kystveien 84 A;8920 Sømna
+1813;Brønnøy;Brønnøysund;Nordland;nøytral;www.bronnoy.kommune.no;postmottak@bronnoy.kommune.no;Brønnøy Kommune;Sivert Nielsens gt. 24;8905 Brønnøysund
+1815;Vega;Gladstad;Nordland;bokmål;www.vega.kommune.no;postkasse@vega.kommune.no;Vega Kommune;Rørøyveien 10;8983 Vega
+1816;Vevelstad;Vevelstad;Nordland;bokmål;www.vevelstad.kommune.no;post@vevelstad.kommune.no;Vevelstad Kommune;Forvikveien 118;8976 Vevelstad
+1818;Herøy;Silvalen;Nordland;bokmål;www.heroy-no.kommune.no;post@heroy-no.kommune.no;Herøy Kommune;Silvalveien 1;8850 Herøy
+1820;Alstahaug;Sandnessjøen;Nordland;nøytral;www.alstahaug.kommune.no;post@alstahaug.kommune.no;Alstahaug Kommune;Postboks 1006;8805 Sandnessjøen
+1822;Leirfjord;Leland;Nordland;nøytral;www.leirfjord.kommune.no;post@leirfjord.kommune.no;Leirfjord Kommune;Skoledalsveien 39;8890 Leirfjord
+1824;Vefsn;Mosjøen;Nordland;nøytral;www.vefsn.kommune.no;post@vefsn.kommune.no;Vefsn Kommune;Skjervgata 34;8657 Mosjøen
+1825;Grane;Trofors;Nordland;nøytral;www.grane.kommune.no;post@grane.kommune.no;Grane Kommune;Industriveien 2;8682 Trofors
+1826;Hattfjelldal;Hattfjelldal;Nordland;nøytral;hattfjelldal.kommune.no;post@hattfjelldal.kommune.no;Hattfjelldal Kommune;O.T. Olsensvei 3 A;8692 Hattfjelldal
+1827;Dønna;Solfjellsjøen;Nordland;bokmål;www.donna.kommune.no;post@donna.kommune.no;Dønna Kommune;Krunhaugen 1;8820 Dønna
+1828;Nesna;Nesna;Nordland;bokmål;www.nesna.kommune.no;postmottak@nesna.kommune.no;Nesna Kommune;Movegen 24;8700 Nesna
+1832;Hemnes;Korgen;Nordland;nøytral;www.hemnes.kommune.no;postmottak@hemnes.kommune.no;Hemnes Kommune;Sentrumsveien 1;8646 Korgen
+1833;Rana;Mo i Rana;Nordland;nøytral;www.rana.kommune.no;postmottak@rana.kommune.no;Rana Kommune;Postboks 173;8601 Mo i Rana
+1834;Lurøy;Lurøy;Nordland;bokmål;www.luroy.kommune.no;postmottak@luroy.kommune.no;Lurøy Kommune;Onøyveien 14;8766 Lurøy
+1835;Træna;Husøy;Nordland;bokmål;www.trana.kommune.no;post@trana.kommune.no;Træna Kommune;Rådhuset;8770 Træna
+1836;Rødøy;Vågaholmen;Nordland;nøytral;www.rodoy.kommune.no;postmottak@rodoy.kommune.no;Rødøy Kommune;Vågaveien 100;8185 Vågaholmen
+1837;Meløy;Ørnes;Nordland;bokmål;www.meloy.kommune.no;postmottak@meloy.kommune.no;Meløy Kommune;Gammelveien 5;8150 Ørnes
+1838;Gildeskål;Inndyr;Nordland;nøytral;www.gildeskal.kommune.no;postmottak@gildeskal.kommune.no;Gildeskål Kommune; Postboks 54;8138 Inndyr
+1839;Beiarn;Moldjord;Nordland;bokmål;www.beiarn.kommune.no;post@beiarn.kommune.no;Beiarn Kommune;Nedre Beiarveien 906;8110 Moldjord
+1840;Saltdal;Rognan;Nordland;bokmål;www.saltdal.kommune.no;postmottak@saltdal.kommune.no;Saltdal Kommune;Kirkegata 23;8250 Rognan
+1841;Fauske;Fauske;Nordland;bokmål;www.fauske.kommune.no;postmottak@fauske.kommune.no;Fauske Kommune;boks 93;8201 Fauske
+1845;Sørfold;Straumen;Nordland;bokmål;www.sorfold.kommune.no;post@sorfold.kommune.no;Sørfold Kommune;Strandveien 2;8226 Straumen
+1848;Steigen;Leinesfjord;Nordland;bokmål;www.steigen.kommune.no;postmottak@steigen.kommune.no;Steigen Kommune;Myklebostad 1;8283 Leinesfjord
+1851;Lødingen;Lødingen;Nordland;bokmål;www.lodingen.kommune.no;postmottak@lodingen.kommune.no;Lødingen Kommune;Postboks 83;8411 Lødingen 
+1853;Evenes;Bogen;Nordland;bokmål;www.evenes.kommune.no;postmottak@evenes.kommune.no;Evenes Kommune;Postboks 43;8539 Bogen i Ofoten.
+1856;Røst;Røstlandet;Nordland;bokmål;rost.kommune.no;postmottak@rost.kommune.no;Røst Kommune;Røstlandveien 37;8064 Røst
+1857;Værøy;Sørland;Nordland;bokmål;varoy.kommune.no;postmottak@varoy.kommune.no;Værøy Kommune;Sørland 33;8063 Værøy
+1859;Flakstad;Ramberg;Nordland;nøytral;flakstad.kommune.no;postmottak@flakstad.kommune.no;Flakstad Kommune;Flakstadveien 371;8380 Ramberg 
+1860;Vestvågøy;Leknes;Nordland;nøytral;www.vestvagoy.kommune.no;postmottak@vestvagoy.kommune.no;Vestvågøy Kommune;Postboks 203;8376 Leknes
+1865;Vågan;Svolvær;Nordland;nøytral;vagan.kommune.no;postmottak@vagan.kommune.no;Vågan Kommune;Postboks 802;8305 Svolvær
+1866;Hadsel;Stokmarknes;Nordland;bokmål;www.hadsel.kommune.no;postmottak@hadsel.kommune.no;Hadsel Kommune;Rådhusgata 5;8450 Stokmarknes
+1867;Bø;Straume;Nordland;nøytral;www.boe.kommune.no;post@boe.kommune.no;Bø Kommune;Veaveien 50;8475 Straumsjøen
+1868;Øksnes;Myre;Nordland;nøytral;www.oksnes.kommune.no;postmottak@oksnes.kommune.no;Øksnes Kommune;Storgata 27;8430 Myre
+1870;Sortland;Sortland;Nordland;nøytral;www.sortland.kommune.no;postmottak@sortland.kommune.no;Sortland Kommune;Vesterålsgata 57;8400 Sortland
+1871;Andøy;Andenes;Nordland;nøytral;www.andoy.kommune.no;postmottak@andoy.kommune.no;Andøy Kommune;Postboks 187;8483 Andenes
+1874;Moskenes;Reine;Nordland;nøytral;moskenes.kommune.no;postmottak@moskenes.kommune.no;Moskenes Kommune;Postboks 76;3301 Hokksund
+1875;Hamarøy;Oppeid;Nordland;nøytral;www.hamaroy.kommune.no;postmottak@hamaroy.kommune.no;Hamarøy Kommune;Marie Hamsuns vei 3;8294 Hamarøy
+3101;Halden;Halden;Østfold;bokmål;www.halden.kommune.no;postmottak@halden.kommune.no;Halden Kommune;Postboks 150;1751 Halden
+3103;Moss;Moss;Østfold;nøytral;www.moss.kommune.no;post@moss.kommune.no;Moss Kommune;Postboks 175;1501 Moss
+3105;Sarpsborg;Sarpsborg;Østfold;bokmål;www.sarpsborg.com;postmottak@sarpsborg.com;Sarpsborg Kommune;Postboks 237;1702 Sarpsborg
+3107;Fredrikstad;Fredrikstad;Østfold;bokmål;www.fredrikstad.kommune.no;postmottak@fredrikstad.kommune.no;Fredrikstad Kommune;Postboks 1405;1602 Fredrikstad
+3110;Hvaler;Skjærhalden;Østfold;bokmål;www.hvaler.kommune.no;postmottak@hvaler.kommune.no;Hvaler Kommune;Storveien 32;1680 Skjærhalden
+3112;Råde;Karlshus;Østfold;bokmål;www.rade.kommune.no;post@rade.kommune.no;Råde Kommune;Skråtorpveien 2A;1640 Råde
+3114;Våler;Kirkebygden;Østfold;bokmål;www.valer.kommune.no;postmottak@valer.kommune.no;Våler Kommune;Kjosveien 1;1592 Våler I Østfold
+3116;Skiptvet;Meieribyen;Østfold;bokmål;www.skiptvet.kommune.no;postmottak@skiptvet.kommune.no;Skiptvet Kommune;Postboks 115;1806 Skiptvet 
+3118;Indre Østfold;Askim;Østfold;bokmål;www.io.kommune.no;post@io.kommune.no;Indre Østfold Kommune;Postboks 34;1861 Trøgstad
+3120;Rakkestad;Rakkestad;Østfold;bokmål;www.rakkestad.kommune.no;postmottak@rakkestad.kommune.no;Rakkestad Kommune;Postboks 264;1891 Rakkestad
+3122;Marker;Ørje;Østfold;bokmål;www.marker.kommune.no;post@marker.kommune.no;Marker Kommune;Postboks 114;1871 ørje
+3124;Aremark;Fossby;Østfold;bokmål;www.aremark.kommune.no;post@aremark.kommune.no;Aremark Kommune;Østkroken 3;1798 Aremark
+3201;Bærum;Sandvika;Akershus;bokmål;www.baerum.kommune.no;post@baerum.kommune.no;Bærum Kommune;Postboks 700;1304 Sandvika
+3203;Asker;Asker;Akershus;nøytral;www.asker.kommune.no;post@asker.kommune.no;Asker Kommune;Postboks 55;3441 Røyken
+3205;Lillestrøm;Lillestrøm;Akershus;nøytral;www.lillestrom.kommune.no;postmottak@lillestrom.kommune.no;Lillestrøm Kommune;Postboks 313;2001 Lillestrøm
+3207;Nordre Follo;Ski;Akershus;nøytral;www.nordrefollo.kommune.no;postmottak@nordrefollo.kommune.no;Nordre Follo Kommune;Postboks 3010;1402 Ski
+3209;Ullensaker;Jessheim;Akershus;bokmål;www.ullensaker.kommune.no;postmottak@ullensaker.kommune.no;Ullensaker Kommune;Postboks 470;2051 Jessheim
+3212;Nesodden;Nesoddtangen;Akershus;bokmål;www.nesodden.kommune.no;postmottak@nesodden.kommune.no;Nesodden Kommune;Postboks 123;1451 Nesoddtangen
+3214;Frogn;Drøbak;Akershus;bokmål;www.frogn.kommune.no;postmottak@frogn.kommune.no;Frogn Kommune;Postboks 10;1441 Drøbak
+3216;Vestby;Vestby;Akershus;bokmål;www.vestby.kommune.no;post@vestby.kommune.no;Vestby Kommune;Postboks 144;1541 Vestby
+3218;Ås;Ås;Akershus;nøytral;www.as.kommune.no;post@as.kommune.no;Ås Kommune;Postboks 195;1431 Ås
+3220;Enebakk;Kirkebygda;Akershus;bokmål;www.enebakk.kommune.no;postmottak@enebakk.kommune.no;Enebakk Kommune;Prestegårdsveien 4;1912 Enebakk
+3222;Lørenskog;Solheim;Akershus;nøytral;www.lorenskog.kommune.no;postmottak@lorenskog.kommune.no;Lørenskog Kommune;Postboks 304;1471 Lørenskog
+3224;Rælingen;Fjerdingby;Akershus;nøytral;www.ralingen.kommune.no;postmottak@ralingen.kommune.no;Rælingen Kommune; Postboks 100;2025 Fjerdingby
+3226;Aurskog-Høland;Bjørkelangen;Akershus;nøytral;www.aurskog-holand.kommune.no;postmottak@ahk.no;Aurskog-Høland Kommune;Rådhusveien 3;1940 Bjørkelangen
+3228;Nes;Årnes;Akershus;bokmål;www.nes.kommune.no;postmottak@nes.kommune.no;Nes Kommune;Postboks 114;2151 Årnes
+3230;Gjerdrum;Ask;Akershus;bokmål;www.gjerdrum.kommune.no;postmottak@gjerdrum.kommune.no;Gjerdrum Kommune;Postboks 10;2024 Gjerdrum
+3232;Nittedal;Rotnes;Akershus;bokmål;www.nittedal.kommune.no;postmottak@nittedal.kommune.no;Nittedal Kommune;Postboks 63;1483 Hagan
+3234;Lunner;Roa;Akershus;bokmål;www.lunner.kommune.no;post@lunner.kommune.no;Lunner Kommune;Sandsvegen 1;2740 Roa
+3236;Jevnaker;Jevnaker;Akershus;bokmål;www.jevnaker.kommune.no;postmottak@jevnaker.kommune.no;Jevnaker Kommune;Postboks 60;3521 Jevnaker
+3238;Nannestad;Teigebyen;Akershus;bokmål;www.nannestad.kommune.no;postmottak@nannestad.kommune.no;Nannestad Kommune;Postboks 3;2031 Nannestad
+3240;Eidsvoll;Eidsvoll;Akershus;bokmål;www.eidsvoll.kommune.no;postmottak@eidsvoll.kommune.no;Eidsvoll Kommune;Postboks 90;2081 Eidsvoll
+3242;Hurdal;Hurdal;Akershus;bokmål;www.hurdal.kommune.no;postmottak@hurdal.kommune.no;Hurdal Kommune;Minneåsvegen 3;2090 Hurdal
+3301;Drammen;Drammen;Buskerud;nøytral;www.drammen.kommune.no;kommunepost@drammen.no;Drammen Kommune;Postboks 7500;3008 Drammen
+3303;Kongsberg;Kongsberg;Buskerud;bokmål;www.kongsberg.kommune.no;postmottak@kongsberg.kommune.no;Kongsberg Kommune;Postboks 115;3602 Kongsberg
+3305;Ringerike;Hønefoss;Buskerud;bokmål;www.ringerike.kommune.no;postmottak@ringerike.kommune.no;Ringerike Kommune;Postboks 123 Sentrum;3502 Hønefoss
+3310;Hole;Vik;Buskerud;bokmål;www.hole.kommune.no;postmottak@hole.kommune.no;Hole Kommune;Viksveien 30;3530 Røyse
+3312;Lier;Lierbyen;Buskerud;bokmål;www.lier.kommune.no;postmottak@lier.kommune.no;Lier Kommune;Postboks 205;3401 Lier
+3314;Øvre Eiker;Hokksund;Buskerud;bokmål;ovre-eiker.kommune.no;post@ovre-eiker.kommune.no;Øvre Eiker Kommune;Postboks 76;3301 Hokksund
+3316;Modum;Vikersund;Buskerud;bokmål;www.modum.kommune.no;post@modum.kommune.no;Modum Kommune;Postboks 38;3371 Vikersund
+3318;Krødsherad;Noresund;Buskerud;nøytral;www.krodsherad.kommune.no;post@krodsherad.kommune.no;Krødsherad Kommune;Ringnesveien 10;3536 Noresund
+3320;Flå;Flå;Buskerud;bokmål;www.flaa.kommune.no;postmottak@flaa.kommune.no;Flå Kommune;Sentrumsvegen 24;3539 Flå
+3322;Nesbyen;Nesbyen;Buskerud;bokmål;www.nesbyen.kommune.no;postmottak@nesbyen.kommune.no;Nesbyen Kommune;Alfarvegen 117;3540 Nesbyen
+3324;Gol;Gol;Buskerud;nynorsk;www.gol.kommune.no;postmottak@gol.kommune.no;Gol Kommune;Gamlevegen 4;3550 Gol
+3326;Hemsedal;Trøim;Buskerud;nynorsk;www.hemsedal.kommune.no;postmottak@hemsedal.kommune.no;Hemsedal Kommune;Hemsedalsvegen 2889;3560 Hemsedal
+3328;Ål;Ål;Buskerud;nynorsk;www.aal.kommune.no;postmottak@aal.kommune.no;Ål Kommune;Torget 1;3570 Ål
+3330;Hol;Hol;Buskerud;nøytral;www.hol.kommune.no;postmottak@hol.kommune.no;Hol Kommune;Ålmannvegen 8;3576 Hol
+3332;Sigdal;Prestfoss;Buskerud;bokmål;www.sigdal.kommune.no;post@sigdal.kommune.no;Sigdal Kommune;Borgestubakken 2;3350 Prestfoss
+3334;Flesberg;Lampeland;Buskerud;bokmål;www.flesberg.kommune.no;postmottak@flesberg.kommune.no;Flesberg Kommune;Lampelandhagan 7;3623 Lampeland
+3336;Rollag;Rollag;Buskerud;nøytral;www.rollag.kommune.no;postmottak@rollag.kommune.no;Rollag Kommune;Vrågåvegen 10;3626 Rollag 
+3338;Nore og Uvdal;Rødberg;Buskerud;nøytral;www.nore-og-uvdal.kommune.no;postmottak@nore-og-uvdal.kommune.no;Nore og Uvdal Kommune;Sentrum 16;3630 Rødberg
+3401;Kongsvinger;Kongsvinger;Innlandet;bokmål;www.kongsvinger.kommune.no;postmottak@kongsvinger.kommune.no;Kongsvinger Kommune;Postboks 900;2226 Kongsvinger
+3403;Hamar;Hamar;Innlandet;nøytral;www.hamar.kommune.no;postmottak@hamar.kommune.no;Hamar Kommune;Postboks 4063;2306 Hamar
+3405;Lillehammer;Lillehammer;Innlandet;bokmål;lillehammer.kommune.no;postmottak@lillehammer.kommune.no;Lillehammer Kommune;Postboks 986;2626 Lillehammer
+3407;Gjøvik;Gjøvik;Innlandet;bokmål;www.gjovik.kommune.no;postmottak@gjovik.kommune.no;Gjøvik Kommune;Postboks 630;2810 Gjøvik
+3411;Ringsaker;Brumunddal;Innlandet;bokmål;www.ringsaker.kommune.no;innbyggerservice@ringsaker.kommune.no;Ringsaker Kommune;Postboks 13;2381 Brumunddal
+3412;Løten;Løten;Innlandet;bokmål;www.loten.kommune.no;postmottak@loten.kommune.no;Løten Kommune;Postboks 113;2341 Løten
+3413;Stange;Stange;Innlandet;bokmål;www.stange.kommune.no;post@stange.kommune.no;Stange Kommune;Postboks 214;2336 Stange
+3414;Nord-Odal;Sand;Innlandet;bokmål;www.nord-odal.kommune.no;postmottak@nord-odal.kommune.no;Nord-Odal Kommune;Herredsvegen 2;2120 Sagstua
+3415;Sør-Odal;Skarnes;Innlandet;bokmål;www.sor-odal.kommune.no;postmottak@sor-odal.kommune.no;Sør-Odal Kommune;Øgardsvegen 2;2100 Skarnes
+3416;Eidskog;Skotterud;Innlandet;bokmål;www.eidskog.kommune.no;postmottak@eidskog.kommune.no;Eidskog Kommune;Postboks 94;2231 Skotterud
+3417;Grue;Kirkenær;Innlandet;bokmål;www.grue.kommune.no;postmottak@grue.kommune.no;Grue Kommune;Postboks 94;2261 Kirkenær
+3418;Åsnes;Flisa;Innlandet;bokmål;www.asnes.kommune.no;post@asnes.kommune.no;Åsnes Kommune;Rådhusgata 1;2270 Flisa
+3419;Våler;Våler;Innlandet;bokmål;www.vaaler-he.kommune.no;postmottak@vis.kommune.no;Våler Kommune;Vålgutua 198;2436 Våler i Solør
+3420;Elverum;Elverum;Innlandet;nøytral;www.elverum.kommune.no;postmottak@elverum.kommune.no;Elverum Kommune;Postboks 403 Vestad;2418 Elverum
+3421;Trysil;Innbygda;Innlandet;bokmål;www.trysil.kommune.no;postmottak@trysil.kommune.no;Trysil Kommune;Postboks 200;2421 Trysil
+3422;Åmot;Rena;Innlandet;bokmål;www.amot.kommune.no;postmottak@amot.kommune.no;Åmot Kommune;Postboks 65;2451 Rena
+3423;Stor-Elvdal;Koppang;Innlandet;bokmål;www.stor-elvdal.kommune.no;postmottak@stor-elvdal.kommune.no;Stor-Elvdal Kommune;Storgata 103 C;2480 Koppang
+3424;Rendalen;Bergset;Innlandet;bokmål;www.rendalen.kommune.no;postmottak@rendalen.kommune.no;Rendalen Kommune;Hanestadveien 1;2484 Rendalen
+3425;Engerdal;Engerdal;Innlandet;bokmål;www.engerdal.kommune.no;postmottak@engerdal.kommune.no;Engerdal Kommune;Engerdalsveien 1794;2440 Engerdal
+3426;Tolga;Tolga;Innlandet;nøytral;www.tolga.kommune.no;postmottak@tolga.kommune.no;Tolga Kommune;Brugata 38;2540 Tolga
+3427;Tynset;Tynset;Innlandet;nøytral;www.tynset.kommune.no;postmottak@tynset.kommune.no;Tynset Kommune;Torvgata 1;2500 Tynset
+3428;Alvdal;Alvdal;Innlandet;nøytral;www.alvdal.kommune.no;postmottak@alvdal.kommune.no;Alvdal Kommune;Gjelen 3;2560 Alvdal
+3429;Folldal;Folldal;Innlandet;nøytral;www.folldal.kommune.no;postmottak@folldal.kommune.no;Folldal Kommune;Gruvvegen 7;2580 Folldal
+3430;Os;Os;Innlandet;nøytral;os.kommune.no;postmottak@os.kommune.no;Os Kommune;Rytrøa 14;2550 Os i Østerdalen
+3431;Dovre;Dovre;Innlandet;nøytral;www.dovre.kommune.no;postmottak@dovre.kommune.no;Dovre Kommune;Kongsvegen 4;2662 Dovre
+3432;Lesja;Lesja;Innlandet;nøytral;www.lesja.kommune.no;postmottak@lesja.kommune.no;Lesja Kommune;Postboks 53;2671 Lesja
+3433;Skjåk;Bismo;Innlandet;nynorsk;www.skjaak.kommune.no;post@skjaak.kommune.no;Skjåk Kommune;Moavegen 30;2690 Skjåk
+3434;Lom;Fossbergom;Innlandet;nynorsk;www.lom.kommune.no;post@lom.kommune.no;Lom Kommune;Sognefjellsvegen 6;2686 Lom
+3435;Vågå;Vågåmo;Innlandet;nynorsk;www.vaga.kommune.no;postmottak@vaga.kommune.no;Vågå Kommune;Edvard Storms veg 2;2680 Vågå
+3436;Nord-Fron;Vinstra;Innlandet;nynorsk;www.nord-fron.kommune.no;post@nord-fron.kommune.no;Nord-Fron Kommune;Nedregata 50;2640 Vinstra
+3437;Sel;Otta;Innlandet;nøytral;www.sel.kommune.no;postmottak@sel.kommune.no;Sel Kommune;Botten Hansens gate 9;2670 Otta
+3438;Sør-Fron;Hundorp;Innlandet;nøytral;www.sor-fron.kommune.no;postmottak@sor-fron.kommune.no;Sør-Fron Kommune;Kommunevegen 1;2647 Sør-Fron
+3439;Ringebu;Vålebrua;Innlandet;nøytral;www.ringebu.kommune.no;post@ringebu.kommune.no;Ringebu Kommune;Hanstadgata 4;2630 Ringebu
+3440;Øyer;Tingberg;Innlandet;nøytral;oyer.kommune.no;postmottak@oyer.kommune.no;Øyer Kommune;Kongsvegen 325;2636 Øyer
+3441;Gausdal;Segalstad bru;Innlandet;nøytral;gausdal.kommune.no;postmottak@gausdal.kommune.no;Gausdal Kommune;Vestringsvegen 8;2651 Østre Gausdal
+3442;Østre Toten;Lena;Innlandet;bokmål;www.ototen.no;postmottak@ototen.no;Østre Toten Kommune;Postboks 24;2851 Lena
+3443;Vestre Toten;Raufoss;Innlandet;bokmål;vestre-toten.kommune.no;post@vestre-toten.kommune.no;Vestre Toten Kommune;Postboks 84;2831 Raufoss
+3446;Gran;Jaren;Innlandet;bokmål;www.gran.kommune.no;postmottak@gran.kommune.no;Gran Kommune;Postboks 41;2714 JAREN
+3447;Søndre Land;Hov;Innlandet;bokmål;www.sondre-land.kommune.no;epost@sondre-land.kommune.no;Søndre Land Kommune;Hovsbakken 1;2860 Hov
+3448;Nordre Land;Dokka;Innlandet;bokmål;www.nordre-land.kommune.no;postmottak@nordre-land.kommune.no;Nordre Land Kommune;Postboks 173;2882 Dokka
+3449;Sør-Aurdal;Bagn;Innlandet;nøytral;www.sor-aurdal.kommune.no;postmottak@sor-aurdal.kommune.no;Sør-Aurdal Kommune;Tingvollbakkin 15;2930 Bagn
+3450;Etnedal;Bruflat;Innlandet;nøytral;www.etnedal.kommune.no;postmottak@etnedal.kommune.no;Etnedal Kommune;Kyrkjevegen 10;2890 Etnedal
+3451;Nord-Aurdal;Fagernes;Innlandet;nøytral;www.nord-aurdal.kommune.no;nak@nord-aurdal.kommune.no;Nord-Aurdal Kommune;Boks 143;2901 Fagernes
+3452;Vestre Slidre;Slidre;Innlandet;nynorsk;www.vestre-slidre.kommune.no;post@vestre-slidre.kommune.no;Vestre Slidre Kommune;Slidrevegen 16;2966 Slidre
+3453;Øystre Slidre;Heggenes;Innlandet;nynorsk;www.oystre-slidre.kommune.no;post@oystre-slidre.kommune.no;Øystre Slidre Kommune;Bygdinvegen 1989;2940 Heggenes
+3454;Vang;Vang;Innlandet;nynorsk;www.vang.kommune.no;post@vang.kommune.no;Vang Kommune;Tyinvegen 5161;2975 Vang i Valdres
+3901;Horten;Horten;Vestfold;bokmål;www.horten.kommune.no;postmottak@horten.kommune.no;Horten Kommune;Postboks 10;3191 Horten
+3903;Holmestrand;Holmestrand;Vestfold;bokmål;holmestrand.kommune.no;postmottak@holmestrand.kommune.no;Holmestrand Kommune;Postboks 312;3081 Holmestrand
+3905;Tønsberg;Tønsberg;Vestfold;nøytral;www.tonsberg.kommune.no;postmottak@tonsberg.kommune.no;Tønsberg Kommune;Postboks 2410;3104 Tønsberg
+3907;Sandefjord;Sandefjord;Vestfold;bokmål;www.sandefjord.kommune.no;post@sandefjord.kommune.no;Sandefjord Kommune;Postboks 2025;3202 Sandefjord
+3909;Larvik;Larvik;Vestfold;nøytral;www.larvik.kommune.no;postmottak@larvik.kommune.no;Larvik Kommune;Postboks 2020;3255 Larvik
+3911;Færder;Borgheim;Vestfold;nøytral;faerder.kommune.no;postmottak@faerder.kommune.no;Færder Kommune;Postboks 250 Borgheim;3163 Nøtterøy
+4001;Porsgrunn;Porsgrunn;Telemark;bokmål;www.porsgrunn.kommune.no;postmottak@porsgrunn.kommune.no;Porsgrunn Kommune;Postboks 128;3901 Porsgrunn
+4003;Skien;Skien;Telemark;nøytral;www.skien.kommune.no;post@skien.kommune.no;Skien Kommune;Postboks 158;3701 Skien
+4005;Notodden;Notodden;Telemark;nøytral;www.notodden.kommune.no;postmottak@notodden.kommune.no;Notodden Kommune;Postboks 193;3672 Notodden
+4010;Siljan;Siljan;Telemark;nøytral;www.siljan.kommune.no;post@siljan.kommune.no;Siljan Kommune;Postboks 16;3749 Siljan
+4012;Bamble;Langesund;Telemark;nøytral;www.bamble.kommune.no;postmottak@bamble.kommune.no;Bamble Kommune;Postboks 80;3993 Langesund
+4014;Kragerø;Kragerø;Telemark;nøytral;www.kragero.kommune.no;post@kragero.kommune.no;Kragerø Kommune;Postboks 128;3791 Kragerø
+4016;Drangedal;Prestestranda;Telemark;nøytral;www.drangedal.kommune.no;postmottak@drangedal.kommune.no;Drangedal Kommune;Gudbrandsveien 7;3750 Drangedal
+4018;Nome;Ulefoss;Telemark;nøytral;www.nome.kommune.no;postmottak@nome.kommune.no;Nome Kommune;Ringsevja 30;3830 Ulefoss
+4020;Midt-Telemark;Bø;Telemark;nynorsk;midt-telemark.kommune.no;post@mt.kommune.no;Midt-Telemark Kommune;Postboks 83;3833 Bø i Telemark
+4022;Seljord;Seljord;Telemark;nynorsk;www.seljord.kommune.no;post@seljord.kommune.no;Seljord Kommune;Brøløsvegen 13 A;3840 Seljord
+4024;Hjartdal;Sauland;Telemark;nynorsk;www.hjartdal.kommune.no;postmottak@hjartdal.kommune.no;Hjartdal Kommune;Saulandsvegen 414;3692 Sauland
+4026;Tinn;Rjukan;Telemark;nøytral;www.tinn.kommune.no;postmottak@tinn.kommune.no;Tinn Kommune;Postboks 14;3661 Rjukan
+4028;Kviteseid;Kviteseid;Telemark;nynorsk;www.kviteseid.kommune.no;post@kviteseid.kommune.no;Kviteseid Kommune;Kviteseidgata 13;3850 Kviteseid
+4030;Nissedal;Treungen;Telemark;nynorsk;www.nissedal.kommune.no;postmottak@nissedal.kommune.no;Nissedal Kommune;Treungvegen 398;3855 Treungen
+4032;Fyresdal;Folkestadbyen;Telemark;nynorsk;www.fyresdal.kommune.no;postmottak@fyresdal.kommune.no;Fyresdal Kommune;Klokkarhamaren 6;3870 Fyresdal
+4034;Tokke;Dalen;Telemark;nynorsk;www.tokke.kommune.no;postmottak@tokke.kommune.no;Tokke Kommune;Storvegen 60;3880 Dalen 
+4036;Vinje;Åmot;Telemark;nynorsk;www.vinje.kommune.no;postmottak@vinje.kommune.no;Vinje Kommune;Vinjevegen 192;3890 Vinje
+4201;Risør;Risør;Agder;nøytral;www.risor.kommune.no;post@risor.kommune.no;Risør Kommune;Postboks 158;4952 Risør
+4202;Grimstad;Grimstad;Agder;bokmål;www.grimstad.kommune.no;postmottak@grimstad.kommune.no;Grimstad Kommune;Postboks 123;4891 Grimstad
+4203;Arendal;Arendal;Agder;bokmål;www.arendal.kommune.no;postmottak@arendal.kommune.no;Arendal Kommune;Postboks 123;4891 Grimstad
+4204;Kristiansand;Kristiansand;Agder;nøytral;www.kristiansand.kommune.no;postmottak@kristiansand.kommune.no;Kristiansand Kommune;Postboks 4;4685 Nodeland
+4205;Lindesnes;Mandal;Agder;bokmål;lindesnes.kommune.no;post@lindesnes.kommune.no;Lindesnes Kommune;Ytre Sandgate 25a;4514 Mandal
+4206;Farsund;Farsund;Agder;bokmål;farsund.kommune.no;post@farsund.kommune.no;Farsund Kommune;Postboks 100;4552 Farsund
+4207;Flekkefjord;Flekkefjord;Agder;bokmål;flekkefjord.kommune.no;post@flekkefjord.kommune.no;Flekkefjord Kommune;Kirkegaten 50;4400 Flekkefjord
+4211;Gjerstad;Gjerstad;Agder;nøytral;www.gjerstad.kommune.no;post@gjerstad.kommune.no;Gjerstad Kommune;Gjerstadveien 1341;4980 Gjerstad      
+4212;Vegårshei;Myra;Agder;nøytral;www.vegarshei.kommune.no;post@vegarshei.kommune.no;Vegårshei Kommune;Molandsveien 11;4985 Vegårshei
+4213;Tvedestrand;Tvedestrand;Agder;nøytral;www.tvedestrand.kommune.no;post@tvedestrand.kommune.no;Tvedestrand Kommune;Postboks 38;4901 Tvedestrand
+4214;Froland;Blakstad;Agder;nøytral;www.froland.kommune.no;post@froland.kommune.no;Froland Kommune;Frolandsveien 995;4820 Froland
+4215;Lillesand;Lillesand;Agder;bokmål;www.lillesand.kommune.no;postmottak@lillesand.kommune.no;Lillesand Kommune;Østregate 2;4790 Lillesand
+4216;Birkenes;Birkeland;Agder;nøytral;www.birkenes.kommune.no;postmottak@birkenes.kommune.no;Birkenes Kommune;Postboks 115;4795 Birkeland
+4217;Åmli;Åmli;Agder;nynorsk;www.amli.kommune.no;post@amli.kommune.no;Åmli Kommune;Gata 5;4865 Åmli
+4218;Iveland;Birketveit;Agder;nøytral;iveland.kommune.no;post@iveland.kommune.no;Iveland Kommune;Frikstadveien 20;4724 Iveland
+4219;Evje og Hornnes;Evje;Agder;nøytral;e-h.kommune.no;post@e-h.kommune.no;Evje og Hornnes Kommune;Kasernevegen 19;4735 Evje
+4220;Bygland;Bygland;Agder;nynorsk;bygland.kommune.no;post@bygland.kommune.no;Bygland Kommune;Sentrum 18;4745 Bygland
+4221;Valle;Valle;Agder;nynorsk;valle.kommune.no;post@valle.kommune.no;Valle Kommune;Postboks 4;4746 VALLE
+4222;Bykle;Bykle;Agder;nynorsk;bykle.kommune.no;post@bykle.kommune.no;Bykle Kommune;Sarvsvegen 14;4754 Bykle
+4223;Vennesla;Vennesla;Agder;nøytral;www.vennesla.kommune.no;post@vennesla.kommune.no;Vennesla Kommune;Postboks 25;4701 Vennesla
+4224;Åseral;Kyrkjebygda;Agder;nynorsk;aseral.kommune.no;post@aseral.kommune.no;Åseral Kommune;Gardsvegen 68;4540 Åseral
+4225;Lyngdal;Alleen;Agder;nøytral;www.lyngdal.kommune.no;post@lyngdal.kommune.no;Lyngdal Kommune;Postboks 353;4577 Lyngda
+4226;Hægebostad;Tingvatn;Agder;nynorsk;haegebostad.kommune.no;post@haegebostad.kommune.no;Hægebostad Kommune;Laukrokveien 4;4595 Tingvatn
+4227;Kvinesdal;Liknes;Agder;nøytral;kvinesdal.kommune.no;post@kvinesdal.kommune.no;Kvinesdal Kommune;Nesgata 11;4480 Kvinesdal
+4228;Sirdal;Tonstad;Agder;nøytral;www.sirdal.kommune.no;post@sirdal.kommune.no;Sirdal Kommune;Tonstadveien 28;4440 Tonstad
+4601;Bergen;Bergen;Vestland;nøytral;www.bergen.kommune.no;hovedpostmottak@bergen.kommune.no;Bergen Kommune;Postboks 7700;5020 Bergen  
+4602;Kinn;Florø;Vestland;nynorsk;kinn.kommune.no;post@kinn.kommune.no;Kinn Kommune;Postboks 294;6701 Måløy
+4611;Etne;Etnesjøen;Vestland;nynorsk;www.etne.kommune.no;post@etne.kommune.no;Etne Kommune;Sjoarvegen 2;5590 Etne
+4612;Sveio;Sveio;Vestland;nynorsk;www.sveio.kommune.no;postmottak@sveio.kommune.no;Sveio Kommune;Postboks 40;5559 Sveio
+4613;Bømlo;Svortland;Vestland;nynorsk;www.bomlo.kommune.no;postmottak@bomlo.kommune.no;Bømlo Kommune;Leirdalen 1;5430 Bremne
+4614;Stord;Leirvik;Vestland;nynorsk;www.stord.kommune.no;post@stord.kommune.no;Stord Kommune;Postboks 304;5402 Stord
+4615;Fitjar;Fitjar;Vestland;nynorsk;www.fitjar.kommune.no;fitjar@fitjar.kommune.no;Fitjar Kommune;Postboks 83;5418 Fitjar
+4616;Tysnes;Uggdal;Vestland;nynorsk;www.tysnes.kommune.no;post@tysnes.kommune.no;Tysnes Kommune;Uggdalsvegen 301;5685 Uggdal
+4617;Kvinnherad;Rosendal;Vestland;nynorsk;www.kvinnherad.kommune.no;post@kvinnherad.kommune.no;Kvinnherad Kommune;Rosendalsvegen 10;5470 Rosendal
+4618;Ullensvang;Kinsarvik;Vestland;nynorsk;ullensvang.kommune.no;postmottak@ullensvang.kommune.no;Ullensvang Kommune;Opheimsgata 31;5750 Odda
+4619;Eidfjord;Eidfjord;Vestland;nynorsk;www.eidfjord.kommune.no;postmottak@eidfjord.kommune.no;Eidfjord Kommune;Simadalsvegen 1;5783 Eidfjord
+4620;Ulvik;Ulvik;Vestland;nynorsk;www.ulvik.kommune.no;post@ulvik.kommune.no;Ulvik Kommune;Skeiesvegen 3 ;5730 Ulvik 
+4621;Voss;Vossevangen;Vestland;nynorsk;voss.herad.no;postmottak@voss.herad.no;Voss Kommune;Uttrågata 9;5700 Voss
+4622;Kvam;Norheimsund;Vestland;nynorsk;www.kvam.no;postmottak@kvam.herad.no;Kvam Kommune;Grovagjelet 16;5600 Norheimsund
+4623;Samnanger;Tysse;Vestland;nynorsk;www.samnanger.kommune.no;postmottak@samnanger.kommune.no;Samnanger Kommune;Tyssevegen 217;5650 Tysse
+4624;Bjørnafjorden;Osøyro;Vestland;nynorsk;bjornafjorden.kommune.no;post@bjornafjorden.kommune.no;Bjørnafjorden Kommune;Postboks 24;5649 Eikelandsosen
+4625;Austevoll;Storebø;Vestland;nynorsk;www.austevoll.kommune.no;postmottak@austevoll.kommune.no;Austevoll Kommune;Birkelandsvegen 2;5392 Storebø
+4626;Øygarden;Straume;Vestland;nynorsk;www.oygarden.kommune.no;postmottak@oygarden.kommune.no;Øygarden Kommune;Foldnesvegen 1;5354 Straume
+4627;Askøy;Kleppestø;Vestland;nøytral;askoy.kommune.no;postmottak@askoy.kommune.no;Askøy Kommune;Postboks 33;5321 Kleppestø
+4628;Vaksdal;Dale;Vestland;nynorsk;www.vaksdal.kommune.no;post@vaksdal.kommune.no;Vaksdal Kommune;Konsul Jebsensgate 16;5722 Dalekvam
+4629;Modalen;Mo;Vestland;nynorsk;www.modalen.kommune.no;postmottak@modalen.kommune.no;Modalen Kommune;Postboks 44;5732 Modalen
+4630;Osterøy;Lonevåg;Vestland;nynorsk;www.osteroy.kommune.no;post@osteroy.kommune.no;Osterøy Kommune;Postboks 1;5293 Lonevåg
+4631;Alver;Knarvik;Vestland;nynorsk;alver.kommune.no;post@alver.kommune.no;Alver Kommune;Postboks 4;5906 Frekhaug
+4632;Austrheim;Årås;Vestland;nynorsk;www.austrheim.kommune.no;post@austrheim.kommune.no;Austrheim Kommune;Sætremarka 2;5943 Austrheim
+4633;Fedje;Fedje;Vestland;nynorsk;www.fedje.kommune.no;postmottak@fedje.kommune.no;Fedje Kommune;Sætremarka 2;5943 Austrheim
+4634;Masfjorden;Masfjordnes;Vestland;nynorsk;www.masfjorden.kommune.no;post@masfjorden.kommune.no;Masfjorden Kommune;Austfjordvegen 2724;5981 Masfjordnes
+4635;Gulen;Eivindvik;Vestland;nynorsk;www.gulen.kommune.no;postmottak@gulen.kommune.no;Gulen Kommune;Eivindvikvegen 1119;5966 Eivindvik
+4636;Solund;Hardbakke;Vestland;nynorsk;www.solund.kommune.no;post@solund.kommune.no;Solund Kommune;Hardbakke 26;6924 Hardbakke
+4637;Hyllestad;Hyllestad;Vestland;nynorsk;www.hyllestad.kommune.no;postmottak@hyllestad.kommune.no;Hyllestad Kommune;Lifjordvegen 7;6957 Hyllestad
+4638;Høyanger;Høyanger;Vestland;nynorsk;www.hoyanger.kommune.no;postmottak@hoyanger.kommune.no;Høyanger Kommune;Postboks 159;6991 Høyanger
+4639;Vik;Vikøyri;Vestland;nynorsk;www.vik.kommune.no;postmottak@vik.kommune.no;Vik Kommune;Postboks 134;6891 Vik i Sogn
+4640;Sogndal;Sogndalsfjøra;Vestland;nynorsk;www.sogndal.kommune.no;postmottak@sogndal.kommune.no;Sogndal Kommune;Postboks 153;6851 Sogndal
+4641;Aurland;Aurlandsvangen;Vestland;nynorsk;www.aurland.kommune.no;post@aurland.kommune.no;Aurland Kommune;Vangen 1;5745 Aurland
+4642;Lærdal;Lærdalsøyri;Vestland;nynorsk;laerdal.kommune.no;post@laerdal.kommune.no;Lærdal Kommune;Øyraplassen 7;6887 Lærdal
+4643;Årdal;Årdalstangen;Vestland;nynorsk;www.ardal.kommune.no;postmottak@ardal.kommune.no;Årdal Kommune;Statsråd Evensensveg 4;6885 Årdalstangen
+4644;Luster;Gaupne;Vestland;nynorsk;www.luster.kommune.no;post@luster.kommune.no;Luster Kommune;Postboks 77;6868 Gaupne
+4645;Askvoll;Askvoll;Vestland;nynorsk;www.askvoll.kommune.no;postmottak@askvoll.kommune.no;Askvoll Kommune;Askvollvegen 426A;6980 Askvoll
+4646;Fjaler;Dale;Vestland;nynorsk;www.fjaler.kommune.no;post@fjaler.kommune.no;Fjaler Kommune;Dalstunet 20;6963 Dale i Sunnfjord
+4647;Sunnfjord;Førde;Vestland;nynorsk;sunnfjord.kommune.no;postmottak@sunnfjord.kommune.no;Sunnfjord Kommune;Postboks 338;6802 Førde
+4648;Bremanger;Svelgen;Vestland;nynorsk;bremanger.kommune.no;post@bremanger.kommune.no;Bremanger Kommune;Postboks 104;6721 Svelgen
+4649;Stad;Nordfjordeid;Vestland;nynorsk;stad.kommune.no;post@stad.kommune.no;Stad Kommune;Rådhusvegen 11;6770 Nordfjordeid
+4650;Gloppen;Sandane;Vestland;nynorsk;gloppen.kommune.no;post@gloppen.kommune.no;Gloppen Kommune;Grandavegen 9;6823 Sandane
+4651;Stryn;Stryn;Vestland;nynorsk;stryn.kommune.no;postmottak@stryn.kommune.no;Stryn Kommune;Tonningsgata 4;6783 Stryn
+5001;Trondheim;Trondheim;Trøndelag;nøytral;www.trondheim.kommune.no;postmottak@trondheim.kommune.no;Trondheim Kommune;Postboks 2300 Torgarden;7004 Trondheim
+5006;Steinkjer;Steinkjer;Trøndelag;nøytral;www.steinkjer.kommune.no;postmottak@steinkjer.kommune.no;Steinkjer Kommune;postboks 2530;7729 Steinkjer
+5007;Namsos;Namsos;Trøndelag;nøytral;namsos.kommune.no;postmottak@namsos.kommune.no;Namsos Kommune;Stavarvegen 2;7856 Jøa
+5014;Frøya;Sistranda;Trøndelag;bokmål;www.froya.kommune.no;postmottak@froya.kommune.no;Frøya Kommune;Postboks 152;7261 Sistranda
+5020;Osen;Steinsdalen;Trøndelag;bokmål;www.osen.kommune.no;postmottak@osen.kommune.no;Osen Kommune;Rådhusveien 13;7740 Steinsdalen
+5021;Oppdal;Oppdal;Trøndelag;nøytral;oppdal.kommune.no;post@oppdal.kommune.no;Oppdal Kommune;Postboks 1;7341 Oppdal
+5022;Rennebu;Berkåk;Trøndelag;nøytral;www.rennebu.kommune.no;postmottak@rennebu.kommune.no;Rennebu Kommune;Myrveien 1;7391 Rennebu
+5025;Røros;Røros;Trøndelag;nøytral;roros.kommune.no;postmottak@roros.kommune.no;Røros Kommune;Bergmannsgata 23;7374 Røros
+5026;Holtålen;Ålen;Trøndelag;nøytral;holtalen.kommune.no;epost@holtalen.kommune.no;Holtålen Kommune;Helsetunet 7;7380 Ålen
+5027;Midtre Gauldal;Støren;Trøndelag;bokmål;www.mgk.no;postmottak@mgk.no;Midtre Gauldal Kommune;Rørosveien 11;7290 Støren
+5028;Melhus;Melhus;Trøndelag;nøytral;www.melhus.kommune.no;postmottak@melhus.kommune.no;Melhus Kommune;Postboks 55;7221 Melhus
+5029;Skaun;Børsa;Trøndelag;nøytral;www.skaun.kommune.no;postmottak@skaun.kommune.no;Skaun Kommune;Postboks 74;7358 Børsa
+5031;Malvik;Hommelvik;Trøndelag;bokmål;www.malvik.kommune.no;postmottak@malvik.kommune.no;Malvik Kommune;Postboks 140;7551 Hommelvik
+5032;Selbu;Mebond;Trøndelag;nøytral;www.selbu.kommune.no;postmottak@selbu.kommune.no;Selbu Kommune;Gjelbakken 15;7580 Selbu
+5033;Tydal;Ås;Trøndelag;bokmål;www.tydal.kommune.no;postmottak@tydal.kommune.no;Tydal Kommune;Tydalsvegen 125;7590 Tydal
+5034;Meråker;Midtbygda;Trøndelag;bokmål;www.meraker.kommune.no;postmottak@meraker.kommune.no;Meråker Kommune;Rådhusgata 7;7530 Meråker
+5035;Stjørdal;Stjørdalshalsen;Trøndelag;nøytral;www.stjordal.kommune.no;postmottak@stjordal.kommune.no;Stjørdal Kommune;Kjøpmannsgata 9 ;7500 Stjørdal
+5036;Frosta;Frosta;Trøndelag;nøytral;www.frosta.kommune.no;postmottak@frosta.kommune.no;Frosta Kommune;Fånesvegen 1;7633 Frosta
+5037;Levanger;Levanger;Trøndelag;nøytral;www.levanger.kommune.no;postmottak@levanger.kommune.no;Levanger Kommune;Postboks 130;7601 Levanger
+5038;Verdal;Verdalsøra;Trøndelag;nøytral;www.verdal.kommune.no;postmottak@verdal.kommune.no;Verdal Kommune;Postboks 24;7651 Verdal
+5041;Snåsa;Snåsa;Trøndelag;nøytral;www.snasa.kommune.no;postmottak@snasa.kommune.no;Snåsa Kommune;Sørsivegen 6;7760 Snåsa
+5042;Lierne;Lierne;Trøndelag;nøytral;www.lierne.kommune.no;postmottak@lierne.kommune.no;Lierne Kommune;Heggvollveien 6;7882 Nordli
+5043;Røyrvik;Røyrvik;Trøndelag;nøytral;www.royrvik.kommune.no;postmottak@royrvik.kommune.no;Røyrvik Kommune;Røyrvikveien 5;7898 Limingen
+5044;Namsskogan;Namsskogan;Trøndelag;nøytral;www.namsskogan.kommune.no;postmottak@namsskogan.kommune.no;Namsskogan Kommune;R.C. Hansens vei 2;7890 Namsskogan
+5045;Grong;Grong;Trøndelag;nøytral;www.grong.kommune.no;postmottak@grong.kommune.no;Grong Kommune;Granvegen 1;7870 Grong
+5046;Høylandet;Høylandet;Trøndelag;nøytral;www.hoylandet.kommune.no;postmottak@hoylandet.kommune.no;Høylandet Kommune;Vargeia 1;7877 Høylandet 
+5047;Overhalla;Ranemsletta;Trøndelag;nøytral;www.overhalla.kommune.no;postmottak@overhalla.kommune.no;Overhalla Kommune;Svalivegen 2; 7863 Overhalla
+5049;Flatanger;Lauvsnes;Trøndelag;nøytral;www.flatanger.kommune.no;postmottak@flatanger.kommune.no;Flatanger Kommune;Lauvsneshaugen 25;7770 Flatanger
+5052;Leka;Leknes;Trøndelag;nøytral;www.leka.kommune.no;post@leka.kommune.no;Leka Kommune;Leknesveien 67;7994 LEKA
+5053;Inderøy;Straumen;Trøndelag;nøytral;www.inderoy.kommune.no;postmottak@inderoy.kommune.no;Inderøy Kommune;Vennalivegen 7;7670 Inderøy
+5054;Indre Fosen;Årnset;Trøndelag;nøytral;www.indrefosen.kommune.no;postmottak@indrefosen.kommune.no;Indre Fosen Kommune;Postboks 23;7101 Rissa
+5055;Heim;Kyrksæterøra;Trøndelag;nøytral;www.heim.kommune.no;post@heim.kommune.no;Heim Kommune;Trondheimsveien 1;7200 Kyrksæterøra
+5056;Hitra;Fillan;Trøndelag;nøytral;www.hitra.kommune.no;postmottak@hitra.kommune.no;Hitra Kommune;Rådhusveien 1;7240 Hitra
+5057;Ørland;Brekstad;Trøndelag;bokmål;www.orland.kommune.no;postmottak@orland.kommune.no;Ørland Kommune;Postboks 43;7159 Bjugn
+5058;Åfjord;Årnes;Trøndelag;nøytral;www.afjord.kommune.no;postmottak@afjord.kommune.no;Åfjord Kommune;Postboks 54;7169 Åfjord
+5059;Orkland;Orkanger;Trøndelag;nøytral;www.orkland.kommune.no;postmottak@orkland.kommune.no;Orkland Kommune;Postboks 83;7301 Orkanger
+5060;Nærøysund;Rørvik;Trøndelag;nøytral;www.naroysund.kommune.no;post@naroysund.kommune.no;Nærøysund Kommune;Postboks 133 Sentrum;7901 Rørvik
+5061;Rindal;Rindal;Trøndelag;nøytral;www.rindal.kommune.no;post@rindal.kommune.no;Rindal Kommune;Rindalsvegen 17;6657 Rindal
+5501;Tromsø;Tromsø;Troms;nøytral;tromso.kommune.no;postmottak@tromso.kommune.no;Tromsø Kommune;Postboks 6900;9299 Tromsø
+5503;Harstad;Harstad;Troms;nøytral;www.harstad.kommune.no;postmottak@harstad.kommune.no;Harstad Kommune;postboks 1000;9479 Harstad
+5510;Kvæfjord;Borkenes;Troms;nøytral;www.kvafjord.kommune.no;postmottak@kvafjord.kommune.no;Kvæfjord Kommune;Bygdeveien 26;9475 Borkenes
+5512;Tjeldsund;Evenskjer;Troms;bokmål;www.tjeldsund.kommune.no;post@tjeldsund.kommune.no;Tjeldsund Kommune;Postboks 240;9439 Evenskjer
+5514;Ibestad;Hamnvik;Troms;bokmål;www.ibestad.kommune.no;postmottak@ibestad.kommune.no;Ibestad Kommune;Emma Olsens vei 1;9450 Hamnvik
+5516;Gratangen;Årstein;Troms;nøytral;www.gratangen.kommune.no;postmottak@gratangen.kommune.no;Gratangen Kommune;Boks 23;9471 Gratangen
+5518;Lavangen;Tennevoll;Troms;nøytral;www.lavangen.kommune.no;post@lavangen.kommune.no;Lavangen Kommune;Nesveien 7;9357 Tennevoll
+5520;Bardu;Setermoen;Troms;nøytral;www.bardu.kommune.no;postmottak@bardu.kommune.no;Bardu Kommune;Postboks 401;9365 Bardu
+5522;Salangen;Sjøvegan;Troms;nøytral;www.salangen.kommune.no;postmottak@salangen.kommune.no;Salangen Kommune;Boks 77;9355 Sjøvegan
+5524;Målselv;Moen;Troms;nøytral;www.malselv.kommune.no;postmottak@malselv.kommune.no;Målselv Kommune;Mellombygdveien 216;9321 Moen
+5526;Sørreisa;Sørreisa;Troms;nøytral;www.sorreisa.kommune.no;postmottak@sorreisa.kommune.no;Sørreisa Kommune;Storveien 20;9310 Sørreisa
+5528;Dyrøy;Brøstadbotn;Troms;bokmål;www.dyroy.kommune.no;postmottak@dyroy.kommune.no;Dyrøy Kommune;Dyrøytunet 1;9311 Brøstadbotn
+5530;Senja;Finnsnes;Troms;nøytral;www.senja.kommune.no;post@senja.kommune.no;Senja Kommune;Postboks 602;9306 Finnsnes
+5532;Balsfjord;Storsteinnes;Troms;bokmål;www.balsfjord.kommune.no;postmottak@balsfjord.kommune.no;Balsfjord Kommune;Rådhusgata 11;9050 Storsteinnes
+5534;Karlsøy;Hansnes;Troms;nøytral;www.karlsoy.kommune.no;postmottak@karlsoy.kommune.no;Karlsøy Kommune;Rådhusveien 41;9130 Hansnes
+5536;Lyngen;Lyngseidet;Troms;nøytral;www.lyngen.kommune.no;postmottak@lyngen.kommune.no;Lyngen Kommune;Strandveien 24;9060 Lyngseidet
+5538;Storfjord;Hatteng;Troms;nøytral;www.storfjord.kommune.no;postmottak@storfjord.kommune.no;Storfjord Kommune;Oldersletta 1;9046 Oteren
+5540;Kåfjord;Olderdalen;Troms;bokmål;www.kafjord.kommune.no;post@kafjord.kommune.no;Kåfjord Kommune;Boks 74;9148 Olderdalen
+5542;Skjervøy;Skjervøy;Troms;bokmål;www.skjervoy.kommune.no;post@skjervoy.kommune.no;Skjervøy Kommune;Postboks 145;9189 Skjervøy
+5544;Nordreisa;Storslett;Troms;bokmål;www.nordreisa.kommune.no;postmottak@nordreisa.kommune.no;Nordreisa Kommune;Postboks 174;9156 Storslett
+5546;Kvænangen;Burfjord;Troms;nøytral;www.kvanangen.kommune.no;post@kvanangen.kommune.no;Kvænangen Kommune;Gárgu 8;9161 Burfjord
+5601;Alta;Alta;Finnmark;bokmål;www.alta.kommune.no;postmottak@alta.kommune.no;Alta Kommune;Postboks 1403;9506 Alta
+5603;Hammerfest;Hammerfest;Finnmark;nøytral;hammerfest.kommune.no;postmottak@hammerfest.kommune.no;Hammerfest Kommune;Postboks 1224;9616 Hammerfest
+5605;Sør-Varanger;Kirkenes;Finnmark;bokmål;sor-varanger.kommune.no;postmottak@svk.no;Sør-Varanger Kommune;Postboks 406;9915 Kirkenes
+5607;Vadsø;Vadsø;Finnmark;bokmål;www.vadso.kommune.no;postmottak@vadso.kommune.no;Vadsø Kommune;Postboks 614;9811 Vadsø
+5610;Karasjok;Karasjok;Finnmark;bokmål;www.karasjok.kommune.no;postmottak@karasjok.kommune.no;Karasjok Kommune;Postboks 84;9735 Karasjok
+5612;Kautokeino;Kautokeino;Finnmark;bokmål;www.guovdageainnu.suohkan.no;e-post@kautokeino.kommune.no;Kautokeino Kommune;Bredbuktnesveien 6;9522 Kautokeino
+5614;Loppa;Øksfjord;Finnmark;bokmål;www.loppa.kommune.no;postmottak@loppa.kommune.no;Loppa Kommune;Parkveien 1/3;9550 Øksfjord
+5616;Hasvik;Breivikbotn;Finnmark;bokmål;www.hasvik.kommune.no;post@hasvik.kommune.no;Hasvik Kommune;Postboks 43;9593 breivikbotn
+5618;Måsøy;Havøysund;Finnmark;bokmål;www.masoy.kommune.no;postmottak@masoy.kommune.no;Måsøy Kommune;Postboks 71;9691 Havøysund
+5620;Nordkapp;Honningsvåg;Finnmark;nøytral;www.nordkapp.kommune.no;postmottak@nordkapp.kommune.no;Nordkapp Kommune;Postboks 403;9751 Honningsvåg
+5622;Porsanger;Lakselv;Finnmark;bokmål;www.porsanger.kommune.no;postmottak@porsanger.kommune.no;Porsanger Kommune;Boks 400 Rådhuset;9712 Lakselv
+5624;Lebesby;Kjøllefjord;Finnmark;bokmål;www.lebesby.kommune.no;postmottak@lebesby.kommune.no;Lebesby Kommune;Postboks 38;9790 Kjøllefjord
+5626;Gamvik;Mehamn;Finnmark;nøytral;gamvik.kommune.no;postmottak@gamvik.kommune.no;Gamvik Kommune;Postboks 174;9770 Mehamn
+5628;Tana;Tana bru;Finnmark;bokmål;www.tana.kommune.no;postmottak@tana.kommune.no;Tana Kommune;Rådhusveien 24;9845 Tana
+5630;Berlevåg;Berlevåg;Finnmark;bokmål;www.berlevag.kommune.no;postmottak@berlevag.kommune.no;Berlevåg Kommune;Rådhusgata 2;9980 Berlevåg
+5632;Båtsfjord;Båtsfjord;Finnmark;nøytral;www.batsfjord.kommune.no;postmottak@batsfjord.kommune.no;Båtsfjord Kommune;Postboks 610;9991 Båtsfjord
+5634;Vardø;Vardø;Finnmark;bokmål;www.vardo.kommune.no;postmottak@vardo.kommune.no;Vardø Kommune;Kirkegata 4;9950 Vardø
+5636;Nesseby;Varangerbotn;Finnmark;bokmål;www.nesseby.kommune.no;postmottak@nesseby.kommune.no;Nesseby Kommune;Soltunveien 30;9840 Varangerbotn 
+;;;;;;;;;
