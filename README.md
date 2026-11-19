@@ -1,6 +1,5 @@
 # Innsynslista
 
-**Alle kommuner. Én liste. Ingen innlogging.**
 
 Norske kommuner forvalter store mengder informasjon som angår oss alle. Likevel kan veien til offentlige dokumenter være unødvendig tungvint. Flere kommuner benytter egne innsynsløsninger der brukerne blir bedt om å registrere seg eller logge inn.
 
