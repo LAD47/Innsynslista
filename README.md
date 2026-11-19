@@ -33,7 +33,8 @@ Etter **§ 28** kan innsynskrav fremsettes både skriftlig og muntlig. Det still
 
 Kommunene kan tilby digitale innsynsløsninger, men slike løsninger kan ikke gjøre registrering eller innlogging til en generell forutsetning for å bruke innsynsretten.
 
-Innsynskravet må være tilstrekkelig presist til at kommunen kan identifisere saken eller dokumentene du ønsker innsyn i, innenfor rammene av offentleglova § 28.
+Innsynskravet må være tilstrekkelig presist til at kommunen kan identifisere saken eller 
+dokumentene du ønsker innsyn i, innenfor rammene av offentleglova § 28.
 
 **Les mer:**
 
