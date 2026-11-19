@@ -3,7 +3,7 @@
 
 Norske kommuner forvalter store mengder informasjon som angår oss alle. Likevel kan veien til offentlige dokumenter være unødvendig tungvint. Flere kommuner benytter egne innsynsløsninger der brukerne blir bedt om å registrere seg eller logge inn.
 
-**Men innsynsretten skal ikke være avhengig av en digital brukerkonto.**
+**Men din innsynsretten er ikke avhengig av en digital brukerkonto.**
 
 Innsynslista gjør det enklere å kontakte norske kommuner direkte. Prosjektet er laget først og fremst for journalister som arbeider med offentlig innsyn, undersøkelser og kartlegginger. Men listen er åpen og kan brukes av alle.
 
